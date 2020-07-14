@@ -1,0 +1,12 @@
+SMAP
+process_002dstudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 process-student.jsp
+application/StudentInfo/Jsp/process-student.jsp
+*L
+1,2:46
+4,23:49
+26,2:72
+*E
